@@ -629,7 +629,7 @@ Moringa leaves are also highly nutritious and should be beneficial for people wh
      <div class="container">
        <div class="row">
          <div class="col-md-8 col-md-offset-2 text-center">
-            <form id="sub-form" class="form" action="subsend.php" method="post">
+           <form id="sub-form" class="form" action="subsend.php" method="post">
              <div class="col-sm-8 text-field">
                <input id="mc-email" name="email" class="input-notify-after" type="email" placeholder="Enter Your Email" required >
              </div>
@@ -660,7 +660,7 @@ Moringa leaves are also highly nutritious and should be beneficial for people wh
     <div class="container">
       <div class="row">
         <div class="col-md-6 col-md-offset-3">
-           <form id="contact-form" class="form" action="mailsend.php" method="post">
+          <form id="contact-form" class="form" action="mailsend.php" method="post">
             <div class="row">
               <p class="col-sm-6">
                 <label for="name">Name</label>

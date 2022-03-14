@@ -34,4 +34,24 @@ $(document).ready(function() {
     }
     return false;
     });
+	
+	
+	
+	$('form#sub-form').submit(function() {
+	$('form#sub-form .error').remove();
+	var hasError = false;
+	 
+    if(!hasError) {
+    $('form#sub-form input.submit').fadeOut('normal', function() {
+    $(this).parent().append('');
+    });
+    var formInput = $(this).serialize();
+    $.post($(this).attr('action'),formInput, function(data){
+    $('form#sub-form').slideUp("fast", function() {
+    $(this).before('<div class="success">Email Subscribed successfully.</div>');
+    });
+    });
+    }
+    return false;
+    });
 });
