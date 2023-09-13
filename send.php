@@ -1,6 +1,6 @@
 ﻿<?php 
 $errors = '';
-$myemail = 'sample@gmail.com';
+$myemail = 'info@detoxemmunity.com';
 if(empty($_POST['name'])  ||
    empty($_POST['email']) ||
    empty($_POST['subject']) ||

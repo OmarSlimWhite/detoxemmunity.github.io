@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="google-site-verification" content="zZKqbD1h96aqWQg3Nxsvo6YI3A4sATJyqYB9rjWLzzk" />
+    <meta name="facebook-domain-verification" content="xqp4frhm92cu1e43jopluz2mq7bsew" />
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="">
@@ -15,7 +17,7 @@
     <script src="js/respond.min.js"></script>
   <![endif]-->
 
-  <link rel="shortcut icon" href="img/01.png">
+  <link rel="shortcut icon" href="img/newbrowser.ico">
 
 </head><!--/head-->
 
@@ -101,7 +103,7 @@
             <h4 class="modal-title">Detox Emmunity</h4>
           </div>
           <div class="modal-body">
-            <iframe src="https://www.youtube.com/embed/z57WWQerMmg" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/fuh4M9t0Zb0" allowfullscreen></iframe>
           </div>
         </div><!-- /.modal-content -->
       </div><!-- /.modal-dialog -->
